@@ -1,5 +1,3 @@
-# SALARY-FUNCTION
-To perform various tasks related to data processing, error handling, and file handling using Python.
 # Overview
 The scripts use pandas for manipulating data, os for file handling and zipped file for creating zip archives.
 Load and process salary data from a CSV file (Total.csv)
